@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Greg Osetrov</title>
-    <link>https://example.com/post/</link>
+    <link>https://shadowgreg.github.io/post/</link>
     <description>Recent content in Posts on Greg Osetrov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Greg</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 09:27:13 +0300</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 09:27:13 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/post/my-first-post/</link>
+      <link>https://shadowgreg.github.io/post/my-first-post/</link>
       <pubDate>Thu, 01 Sep 2022 09:27:13 +0300</pubDate>
       
-      <guid>https://example.com/post/my-first-post/</guid>
+      <guid>https://shadowgreg.github.io/post/my-first-post/</guid>
       <description></description>
     </item>
     

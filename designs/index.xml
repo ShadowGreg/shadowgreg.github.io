@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Greg Osetrov</title>
-    <link>https://example.com/designs/</link>
+    <link>https://shadowgreg.github.io/designs/</link>
     <description>Recent content in Designs on Greg Osetrov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Greg</copyright><atom:link href="https://example.com/designs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Greg</copyright><atom:link href="https://shadowgreg.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

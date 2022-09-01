@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/my-first-post/</loc>
+    <loc>https://shadowgreg.github.io/post/my-first-post/</loc>
     <lastmod>2022-09-01T09:27:13+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://shadowgreg.github.io/</loc>
     <lastmod>2022-09-01T09:27:13+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://shadowgreg.github.io/post/</loc>
     <lastmod>2022-09-01T09:27:13+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://shadowgreg.github.io/about/</loc>
     <lastmod>2022-09-01T09:25:39+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/my-first-about/</loc>
+    <loc>https://shadowgreg.github.io/about/my-first-about/</loc>
     <lastmod>2022-09-01T09:25:39+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/my-first-portfolio/</loc>
+    <loc>https://shadowgreg.github.io/portfolio/my-first-portfolio/</loc>
     <lastmod>2022-09-01T09:25:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://shadowgreg.github.io/portfolio/</loc>
     <lastmod>2022-09-01T09:25:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/designs/</loc>
+    <loc>https://shadowgreg.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/</loc>
+    <loc>https://shadowgreg.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
