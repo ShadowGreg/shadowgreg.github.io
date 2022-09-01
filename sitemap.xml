@@ -32,16 +32,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://shadowgreg.github.io/techs/.net-6/</loc>
+    <lastmod>2022-09-01T09:25:08+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/techs/c#/</loc>
+    <lastmod>2022-09-01T09:25:08+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://shadowgreg.github.io/portfolio/</loc>
     <lastmod>2022-09-01T09:25:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shadowgreg.github.io/designs/</loc>
+    <loc>https://shadowgreg.github.io/techs/</loc>
+    <lastmod>2022-09-01T09:25:08+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shadowgreg.github.io/techs/</loc>
+    <loc>https://shadowgreg.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
