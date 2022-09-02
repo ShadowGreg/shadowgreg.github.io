@@ -1,0 +1,4 @@
+
+[submodule "personal-web"]
+	path = personal-web
+	url = https://github.com/bjacquemet/personal-web.git
