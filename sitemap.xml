@@ -22,41 +22,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shadowgreg.github.io/techs/d3/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/designs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/techs/javascript/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/designs/photoshop/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/portfolio/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/portfolio/sample-project/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shadowgreg.github.io/techs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://shadowgreg.github.io/post/archetypes/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,7 +47,31 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://shadowgreg.github.io/techs/.net/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://shadowgreg.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/portfolio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/portfolio/sample-project/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/techs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://shadowgreg.github.io/techs/xaml/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

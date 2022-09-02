@@ -32,16 +32,6 @@
     </item>
     
     <item>
-      <title>Sample project</title>
-      <link>https://shadowgreg.github.io/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      
-      <guid>https://shadowgreg.github.io/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
       <title>Archetypes management</title>
       <link>https://shadowgreg.github.io/post/archetypes/</link>
       <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
@@ -88,6 +78,16 @@ I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</des
       <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
 For example, see content/_index.md page:
 images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
+    </item>
+    
+    <item>
+      <title>Sample calculator</title>
+      <link>https://shadowgreg.github.io/portfolio/sample-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shadowgreg.github.io/portfolio/sample-project/</guid>
+      <description>I figured out how to create a calculator in .NET in a short period of time.
+Разобрался как за короткий промежуток веремеи можно создать калькулятор на .NET.</description>
     </item>
     
   </channel>
