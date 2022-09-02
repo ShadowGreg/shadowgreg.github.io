@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Greg Osetrov</title>
+    <title>Osetrov Greg on Greg Osetrov</title>
     <link>https://shadowgreg.github.io/about/</link>
-    <description>Recent content in Abouts on Greg Osetrov</description>
+    <description>Recent content in Osetrov Greg on Greg Osetrov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Greg</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 09:25:39 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://shadowgreg.github.io/about/about_me_en/</link>
-      <pubDate>Thu, 01 Sep 2022 09:25:39 +0300</pubDate>
-      
-      <guid>https://shadowgreg.github.io/about/about_me_en/</guid>
-      <description>Осетров Григорий Александрович Male, born on 21 August 1985
-shadow-greg@yandex.ru — preferred means of communication
-Another site: https://github.com/ShadowGreg
-Key skills
-Languages
-Russian — Native English — B2 — Upper Intermediate Skills Java; JDK; JDK 8; Пользователь ПК; Работа в команде; HTML; CSS; Team management; Teamleading; clean code; JavaScript; MBA; JUnit; TDD; JSP; Git; apex; visualforce; salesforce administrating; C#; .NET Framework; ООП; .net core; WPF; MVVM; SQL
-C# .Net Developer 60 000 RUB Specializations:</description>
-    </item>
-    
+    <copyright>Greg Osetrov©</copyright><atom:link href="https://shadowgreg.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

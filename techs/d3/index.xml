@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PORTFOLIO on Greg Osetrov</title>
-    <link>https://shadowgreg.github.io/portfolio/</link>
-    <description>Recent content in PORTFOLIO on Greg Osetrov</description>
+    <title>D3 on Greg Osetrov</title>
+    <link>https://shadowgreg.github.io/techs/d3/</link>
+    <description>Recent content in D3 on Greg Osetrov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Greg Osetrov©</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://shadowgreg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://shadowgreg.github.io/techs/d3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample project</title>
       <link>https://shadowgreg.github.io/portfolio/sample-project/</link>
