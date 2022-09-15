@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PORTFOLIO on Greg Osetrov</title>
-    <link>https://shadowgreg.github.io/portfolio/</link>
-    <description>Recent content in PORTFOLIO on Greg Osetrov</description>
+    <title>.NET CORE on Greg Osetrov</title>
+    <link>https://shadowgreg.github.io/techs/.net-core/</link>
+    <description>Recent content in .NET CORE on Greg Osetrov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Greg Osetrov©</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 19:01:58 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 19:01:58 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/techs/.net-core/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Large Text</title>
       <link>https://shadowgreg.github.io/portfolio/large-text/large-text-console/</link>
@@ -18,16 +18,6 @@
 Внутри тестового задания было 2 вопроса.
 По базам данных По программированию Описание задания
 Вообще возникает вопрос, вот работодателю, или школе понятно зачем для отсеивания просматривать тестовые задания. А зачем соискателю их делать? Я для себя нашёл такой ответ - это набивает практику на первых порах. Хотя сам факт успешного выполнения ни на что не влияет.</description>
-    </item>
-    
-    <item>
-      <title>Sample calculator</title>
-      <link>https://shadowgreg.github.io/portfolio/sample-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shadowgreg.github.io/portfolio/sample-project/</guid>
-      <description>I figured out how to create a calculator in .NET in a short period of time.
-Разобрался как за короткий промежуток веремеи можно создать калькулятор на .NET.</description>
     </item>
     
   </channel>

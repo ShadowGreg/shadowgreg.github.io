@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Greg Osetrov©</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://shadowgreg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 19:01:58 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large Text</title>
+      <link>https://shadowgreg.github.io/portfolio/large-text/large-text-console/</link>
+      <pubDate>Thu, 15 Sep 2022 19:01:58 +0300</pubDate>
+      
+      <guid>https://shadowgreg.github.io/portfolio/large-text/large-text-console/</guid>
+      <description>Простое казалось бы задание, от школы DigitalDesignSchool, однако есть вопрос как его сделать? Ответ в исходном коде по ссылке.
+Внутри тестового задания было 2 вопроса.
+По базам данных По программированию Описание задания
+Вообще возникает вопрос, вот работодателю, или школе понятно зачем для отсеивания просматривать тестовые задания. А зачем соискателю их делать? Я для себя нашёл такой ответ - это набивает практику на первых порах. Хотя сам факт успешного выполнения ни на что не влияет.</description>
+    </item>
+    
     <item>
       <title>Getting started</title>
       <link>https://shadowgreg.github.io/post/getting-started/</link>
