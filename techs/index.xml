@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Greg Osetrov©</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 19:01:58 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 09:00:33 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exel Formulas</title>
+      <link>https://shadowgreg.github.io/techs/exel-formulas/</link>
+      <pubDate>Sun, 02 Oct 2022 09:00:33 +0300</pubDate>
+      
+      <guid>https://shadowgreg.github.io/techs/exel-formulas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VB</title>
+      <link>https://shadowgreg.github.io/techs/vb/</link>
+      <pubDate>Sun, 02 Oct 2022 09:00:33 +0300</pubDate>
+      
+      <guid>https://shadowgreg.github.io/techs/vb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.NET</title>
       <link>https://shadowgreg.github.io/techs/.net/</link>

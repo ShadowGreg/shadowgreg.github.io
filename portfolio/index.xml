@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Greg Osetrov©</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 19:01:58 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 09:00:33 +0300</lastBuildDate><atom:link href="https://shadowgreg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel</title>
+      <link>https://shadowgreg.github.io/portfolio/excel/</link>
+      <pubDate>Sun, 02 Oct 2022 09:00:33 +0300</pubDate>
+      
+      <guid>https://shadowgreg.github.io/portfolio/excel/</guid>
+      <description>В работе электрика проектировщика каждый день по десть раз встречается задача расчёта электрических нагрузок на щитах 0.4 кВ.
+Эта задача занимает много времени в ручном режиме.
+Её приходится выполнять тщательно и кропотливо, потому что хоть действия и идентичные каждый потребитель требует своего подхода для выбора коэффициентов учитывающих мощность потребителя, качество исполнения и прочие мелочи. Так вот на просторах интернета для того что бы упростить жизнь электрикам есть несколько основных программ, и самой гибкой оказался экселвкий файл, но как всегда пришлось дорабатывать запросы по базе данных, ссылки по страницам, совершенствовать расчётные формулы, редактировать систему вывода в AutoCad.</description>
+    </item>
+    
     <item>
       <title>Large Text</title>
       <link>https://shadowgreg.github.io/portfolio/large-text/large-text-console/</link>
@@ -21,13 +32,21 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://shadowgreg.github.io/portfolio/large-text-console/</link>
+      <pubDate>Thu, 15 Sep 2022 19:00:13 +0300</pubDate>
+      
+      <guid>https://shadowgreg.github.io/portfolio/large-text-console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sample calculator</title>
       <link>https://shadowgreg.github.io/portfolio/sample-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shadowgreg.github.io/portfolio/sample-project/</guid>
-      <description>I figured out how to create a calculator in .NET in a short period of time.
-Разобрался как за короткий промежуток веремеи можно создать калькулятор на .NET.</description>
+      <description>Разобрался как за короткий промежуток веремеи можно создать калькулятор на .NET.</description>
     </item>
     
   </channel>
